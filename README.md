@@ -8,19 +8,19 @@ This project is a web application built using Flask, HTML, CSS, and JavaScript. 
 - **Inventory Check**: Users can select a store and department to check inventory levels.
 - **Email Notification**: Users can input their email address to receive predictions and inventory data via email.
 
-2. Install dependencies:
+1. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Run the Flask server:
+2. Run the Flask server:
 
     ```bash
     python flask_model_server.py
     ```
 
-4. Open `index.html` in your web browser.
+3. Open `index.html` in your web browser.
 
 ## Usage
 
@@ -53,12 +53,3 @@ This project is a web application built using Flask, HTML, CSS, and JavaScript. 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or find any issues, please open an issue or a pull request on GitHub.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- This project was inspired by the need for a simple web interface for predicting sales and checking inventory.
-
